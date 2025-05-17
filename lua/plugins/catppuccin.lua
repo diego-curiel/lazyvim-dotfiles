@@ -5,4 +5,10 @@ return {
       opts.transparent_background = true
     end,
   },
+  {
+    "LazyVim/LazyVim",
+    opts = {
+      colorscheme = "catppuccin",
+    },
+  },
 }
